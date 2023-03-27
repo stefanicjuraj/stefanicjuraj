@@ -25,7 +25,6 @@ My main focus while creating said projects is to practice creating practical, in
 [![email][email]][email-url]
 <br />
 <br />
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanicjuraj&layout=compact)]()
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
