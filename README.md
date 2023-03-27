@@ -23,8 +23,6 @@ My main focus while creating said projects is to practice creating practical, in
 
 [![linkedin][linkedin]][linkedin-url]
 [![email][email]][email-url]
-<br />
-<br />
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
