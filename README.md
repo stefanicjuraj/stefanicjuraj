@@ -4,16 +4,12 @@
 ### About me
 
 <div align="justify"> 
-I am a senior IT student at RIT Croatia — acquiring a Bachelor of Science degree in Information Technology (IT) / Web & Mobile Development, 
+I am a senior software development student at Rochester Institute of Technology — acquiring a Bachelor of Science degree in Information Technology (IT) / Web & Mobile Computing, 
 with a minor in Psychology and immersion in the French language.
 <br />
 <br />
 
-My interests include `software development` ,`data engineering`, `web development`, `web` and `product design`, and `technology research`.
-With previous experiences in those fields, I am ready to learn and partake in new challenges.
-
-In addition, smaller projects and applications I occupy my free time with are an outlet for my creativity and a great learning curve. 
-My main focus while creating said projects is to practice creating practical, intuitive and user-friendly application solutions.
+With an interest and previous work experiences in `software development`, `software documentation`, `data`, `design`, and `technical writing`; learning and hobby projects I occupy my time with are an outlet for my creativity and serve a great learning curve.
 <br />
 
 <strong>[View projects »](https://github.com/stefanicjuraj?tab=repositories)</strong> view a full list of repositories and projects.
