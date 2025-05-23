@@ -49,19 +49,19 @@ With an interest and previous work experiences with software development and doc
 
 - Collection of IT companies, conferences, education, certificates, communities, places to work, podcasts, and internships in Croatia.
 - Featured in Rochester Institute of Technology news article: *[How Juraj Štefanić built it-croatia.com to guide the IT industry](https://www.rit.edu/croatia/news/how-juraj-stefanic-built-it-croatiacom-guide-it-industry)*
-- 250,000+ views.
+- 300,000+ views.
 - JavaScript, TypeScript, React, Tailwind CSS, and HTML.
 
 ### [skillsets.tech](https://skillsets.tech/)
 
 - Analyzing job advertisements and extracting the most in-demand skills, technologies, and tools for IT positions.
-- 250,000+ views.
+- 300,000+ views.
 - JavaScript, TypeScript, Python, React, Next.js, Tailwind CSS, and HTML.
 
 ### [Smart Search](https://marketplace.visualstudio.com/items?itemName=jurajstefanic.smart-search)
 
 - An IDE extension for advanced search functionality.
-- 150,000+ views & 375+ installs.
+- 200,000+ views & 400+ installs.
 - JavaScript, TypeScript, HTML, and CSS.
 
 ### [techbook.digital](https://techbook.digital/)
