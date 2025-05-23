@@ -4,7 +4,7 @@ Bachelor of Science (bacc.ing.techn.inf.) in Information Technology / Web & Mobi
 
 ## Experience
 
-### Technical Writer / Documentation Engineer at [ReversingLabs](https://www.reversinglabs.com/)
+### Technical Writer / Documentation Engineer — [ReversingLabs](https://www.reversinglabs.com/)
 
 April 2023 — Present
 
@@ -12,7 +12,7 @@ April 2023 — Present
 - Automating documentation workflows (testing, deploying, publishing) using Python, YAML, and GitLab CI/CD.
 - Authoring and maintaining software documentation (user guides, release notes), API and CLI references, and technical content using a docs-as-code approach with Markdown, MDX, and Git.
 
-### Technical Writer / Documentation Engineer at [Daytona](https://www.daytona.io/)
+### Technical Writer / Documentation Engineer — [Daytona](https://www.daytona.io/)
 
 July 2024 — Februrary 2025
 
@@ -20,21 +20,21 @@ July 2024 — Februrary 2025
 - Automating documentation workflows (testing, deploying, publishing) using Python, YAML, and GitHub Actions.
 - Authoring and maintaining software documentation (user guides, release notes), API and CLI references, and technical content using a docs-as-code approach with Markdown, MDX, and Git.
 
-### Software Engineer at [Rochester Institute of Technology](https://www.rit.edu/)
+### Software Engineer — [Rochester Institute of Technology](https://www.rit.edu/)
 
 September 2022 — May 2023
 
 - Development of a full-stack asset inventory management web application for INA d.o.o.’s IT department (Plavi Tim) using JavaScript, TypeScript, React, Node.js, PostgreSQL, HTML, and CSS.
 - Authoring and maintaining software documentation (developer and user guides), technical content and customer presentations.
 
-### Software Designer at [Cinnamon](https://www.cinnamon.agency/)
+### Software Designer — [Cinnamon](https://www.cinnamon.agency/)
 
 April 2022 — September 2022
 
 - Designing the UX and UI of an internal web application for the Project Management department to track project and employee availability using Figma, HTML, CSS, and JavaScript.
 - Led design process including low-fidelity wireframes, high-fidelity mockups, interactive prototypes, component design, responsive layout planning, and developer handoff.
 
-### Software Engineer at [Syntio](https://www.syntio.net/)
+### Software Engineer — [Syntio](https://www.syntio.net/)
 
 March 2021 — February 2022
 
