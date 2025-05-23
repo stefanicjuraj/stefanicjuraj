@@ -8,7 +8,7 @@ Bachelor of Science (bacc.ing.techn.inf.) in Information Technology / Web & Mobi
 
 April 2023 — Present
 
-- Frontend development of the documentation website (*[docs.reversinglabs.com](https://docs.reversinglabs.com/)*) using JavaScript, React, Docusaurus, HTML, and CSS.
+- Development of the documentation website (*[docs.reversinglabs.com](https://docs.reversinglabs.com/)*) using JavaScript, React, Docusaurus, HTML, and CSS.
 - Automating documentation workflows (testing, deploying, publishing) using Python, YAML, and GitLab CI/CD.
 - Authoring and maintaining software documentation (user guides, release notes), API and CLI references, and technical content using a docs-as-code approach with Markdown, MDX, and Git.
 
@@ -16,7 +16,7 @@ April 2023 — Present
 
 July 2024 — Februrary 2025
 
-- Frontend development of the documentation website (*[daytona.io/docs](https://daytona.io/docs/)*) using JavaScript, React, Astro, HTML, and CSS.
+- Development of the documentation website (*[daytona.io/docs](https://daytona.io/docs/)*) using JavaScript, React, Astro, HTML, and CSS.
 - Automating documentation workflows (testing, deploying, publishing) using Python, YAML, and GitHub Actions.
 - Authoring and maintaining software documentation (user guides, release notes), API and CLI references, and technical content using a docs-as-code approach with Markdown, MDX, and Git.
 
@@ -24,7 +24,7 @@ July 2024 — Februrary 2025
 
 September 2022 — May 2023
 
-- Frontend and backend development of a full-stack asset inventory management web application for INA d.o.o.’s IT department (Plavi Tim) using JavaScript, TypeScript, React, Node.js, PostgreSQL, HTML, and CSS.
+- Development of a full-stack asset inventory management web application for INA d.o.o.’s IT department (Plavi Tim) using JavaScript, TypeScript, React, Node.js, PostgreSQL, HTML, and CSS.
 
 ### Software Designer at [Cinnamon](https://www.cinnamon.agency/)
 
@@ -36,8 +36,8 @@ April 2022 — September 2022
 
 March 2021 — February 2022
 
-- Frontend and backend development of a full-stack web application for the People Operations department to track project and employee availability, monitor progress, manage upcoming events, and support batch email communication using JavaScript, TypeScript, React, Node.js, SQL, HTML, and CSS.
-- Backend development of an advanced data analytics platform within the Azure infrastructure for processing, analyzing, and visualizing live Twitter data using Python, Go, Databricks, and PowerBI.
+- Development of a full-stack web application for the People Operations department to track project and employee availability, monitor progress, manage upcoming events, and support batch email communication using JavaScript, TypeScript, React, Node.js, SQL, HTML, and CSS.
+- Development of an advanced data analytics platform within the Azure infrastructure for processing, analyzing, and visualizing live Twitter data using Python, Go, Databricks, and PowerBI.
 
 ## Projects
 
