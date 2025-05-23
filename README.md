@@ -25,12 +25,14 @@ July 2024 — Februrary 2025
 September 2022 — May 2023
 
 - Development of a full-stack asset inventory management web application for INA d.o.o.’s IT department (Plavi Tim) using JavaScript, TypeScript, React, Node.js, PostgreSQL, HTML, and CSS.
+- Authoring and maintaining software documentation (developer and user guides), technical content and customer presentations.
 
 ### Software Designer at [Cinnamon](https://www.cinnamon.agency/)
 
 April 2022 — September 2022
 
 - Designing the UX and UI of an internal web application for the Project Management department to track project and employee availability using Figma, HTML, CSS, and JavaScript.
+- Led design process including low-fidelity wireframes, high-fidelity mockups, interactive prototypes, component design, responsive layout planning, and developer handoff.
 
 ### Software Engineer at [Syntio](https://www.syntio.net/)
 
